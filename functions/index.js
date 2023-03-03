@@ -1,24 +1,15 @@
 import functions from "firebase-functions";
 import express from "express";
-import path from "path";
 import cors from "cors";
+import coreRouter from "./routes/core.js"
+import imagesRouter from "./routes/images.js"
 
 const app = express();
 app.use(express.json());
 app.use (cors());
 
-
-const filePath = process.cwd();
-
-app.get("/", (req,res) => {  
-  const uri = path.join(filePath, '/pages/index.html');
-  res.sendFile(uri);
-});
-
-app.get("*", (req,res) => {
-  const uri = path.join(filePath, '/pages/404.html');
-  res.sendFile(uri);
-});
+app.use("/", coreRouter);
+app.use("/images", imagesRouter);
 
 
 /* For Localhost
