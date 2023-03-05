@@ -1,0 +1,93 @@
+[
+   {
+     "id": 1,
+     "title": "Kalanchoe Millotii",
+     "common name": "Millot Kalanchoe",
+     "description": "A small succulent shurb which can grow up to 12 inches (30 cm) tall. Leaves are ovate, hazy green with felt covering.",
+     "sun": "Bright indirect Light--avoid direct sunlight.",
+     "soil": "Well draining",
+     "water": "Water thourghly and let it dry.",
+     "native": "Madagascar",
+     "qr": "",
+     "image": "https://littleprinceplants.com/wp-content/uploads/2020/09/Kalanchoe-millotii-September3-scaled-e1601058361960.jpg",
+     "contentSource": "https://worldofsucculents.com/kalanchoe-millotii-millot-kalanchoe/"
+   },
+   {
+     "id": 2,
+     "title": "Tradescantia Spathacea",
+     "common name": "Boat Lily, Moses in the Cradle, Moses in a Basket, Oyseter Plant",
+     "description": "Waxy lance-shaped leaves. Leaves are dark to metallic green above, with glossy purple underneath.",
+     "sun": "Bright indirect Light--avoid direct sunlight.",
+     "soil": "Well draining",
+     "water": "Water thourghly and let it dry.",
+     "native": "Belize, Guatemala and Southern Mexico",
+     "qr": "",
+     "image": "https://i.pinimg.com/originals/91/da/98/91da9825170d9a71fdc534ed7d411320.jpg",
+     "contentSource": "https://en.wikipedia.org/wiki/Tradescantia_spathacea"
+   },
+   {
+     "id": 3,
+     "title": "Peperomia Obtusifolia Variegata",
+     "common name": "Baby rubber plant, American Rubber Plant",
+     "description": "Grows up to 10 inches tall with a cup-like, dark green leaves. These shiny and fleshy succulent like leaves have light-colored cream variegation running through the foliage.",
+     "sun": "Bright indirect Light--avoid direct sunlight.",
+     "soil": "Well draining",
+     "water": "Water thourghly and let it dry.",
+     "native": "Central and South America including Mexico, Florida, and the Caribbean.",
+     "qr": "",
+     "image": "https://images.thdstatic.com/productImages/b4d536b9-b471-44a1-b6d5-baf1de93e020/svn/national-plant-network-perennials-hd7468-64_1000.jpg",
+     "contentSource": "https://plantcaretoday.com/peperomia-obtusifolia-variegata.html"
+   },
+   {
+     "id": 4,
+     "title": "Colocasia Cophama",
+     "common name": "Colocasia  Pharaoh's Mask, Colocasia Elephant Ear Plant",
+     "description": "A unique variety, Pharaoh's Mask has bright green leaves that are accentuated by bulging purple veins, creating an unusual 3D effect that is impossible to ignore. At maturity, the leaf edges curve under, showing off the purple veins even more. Strong, dark stems, (petioles) the same color of the veins.",
+     "sun": "Part sun - prefers afternoon shade.",
+     "soil": "Average garden soil",
+     "water": "Moist, well-drained, but not too soggy.",
+     "native": "Central and South America including Mexico, Florida, and the Caribbean.",
+     "qr": "",
+     "image": "https://plantsnouveau.com/images/plants/colocasia/col-pharaohs-mask/col-pharaohs-mask-0003.jpg",
+     "contentSource": "https://plantsnouveau.com/plants/tropicals/colocasia-pharaohs-mask"
+   },
+   {
+     "id": 5,
+     "title": "Oxalis Triangularis",
+     "common name": "False shamrock",
+     "description": "The striking purple leaves stand out amongst green indoor plants and it's also photophilic, which mean that the leaves open and close in response to light in a process called nystinasty. At night the leaves fold down and during the day they will open up.",
+     "sun": "Bright to medium indirect Light--avoid direct sunlight.",
+     "soil": "Well draining",
+     "water": "Water thourghly and let it dry.",
+     "native": "Southern South America",
+     "qr": "",
+     "image": "https://static1.s123-cdn-static-a.com/uploads/1826974/2000_5d9259f93f8e3.jpg",
+     "contentSource": "https://www.plantmaid.com/oxalis-triangularis-light-and-watering/"
+   },
+   {
+     "id": 6,
+     "title": "Tradescantia Pallida",
+     "common name": "Purple heart, purple heart wandering jew",
+     "description": "Tender perennial commonly used as a houseplant or an annual.   Featuring trailing purple stems with violet-purple leaves and pink flowers that appear in the summer.  It is generally an annual but may come back in protected areas or in mild winters.",
+     "sun": "Full sun will produce the best color development",
+     "soil": "Well draining",
+     "water": "Water thourghly and let it dry.",
+     "native": "Northeast Mexico (from Tamaulipas to Yucatan)",
+     "qr": "",
+     "image": "https://cdn.shopify.com/s/files/1/1752/7485/products/tradescantia_purple_heart_480x480.jpg",
+     "contentSource": "https://plants.ces.ncsu.edu/plants/tradescantia-pallida-purple-heart/"
+   },
+   {
+     "id": 7,
+     "title": "jiho",
+     "common name": "Purple heart, purple heart wandering jew",
+     "description": "Tender perennial commonly used as a houseplant or an annual.   Featuring trailing purple stems with violet-purple leaves and pink flowers that appear in the summer.  It is generally an annual but may come back in protected areas or in mild winters.",
+     "sun": "Full sun will produce the best color development",
+     "soil": "Well draining",
+     "water": "Water thourghly and let it dry.",
+     "native": "Northeast Mexico (from Tamaulipas to Yucatan)",
+     "qr": "",
+     "image": "https://cdn.shopify.com/s/files/1/1752/7485/products/tradescantia_purple_heart_480x480.jpg",
+     "contentSource": "https://plants.ces.ncsu.edu/plants/tradescantia-pallida-purple-heart/"
+   }
+ ]
