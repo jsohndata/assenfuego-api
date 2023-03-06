@@ -23,7 +23,7 @@ body {
   background-color: var(--color-bg__main);
   
   text-align: center;  
-  background-image: url("http://127.0.0.1:5002/images/photos/pexels-photo-8271359.webp");
+  background-image: url("/images/photos/pexels-photo-8271359.webp");
   background-position: center;
   background-size:cover;
   background-repeat: no-repeat;
