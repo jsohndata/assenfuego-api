@@ -21,8 +21,13 @@ body {
   width: 100%;
   height: 100vh;
   background-color: var(--color-bg__main);
-  background: linear-gradient(179.4deg, rgb(16, 6, 43) 70.9%, rgb(66, 105, 223) 139.9%);
-  text-align: center;
+  
+  text-align: center;  
+  background-image: url("http://127.0.0.1:5002/images/photos/pexels-photo-8271359.webp");
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1 {
