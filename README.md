@@ -3,7 +3,7 @@
 
 Personal collection of APIs, links, and resouces. 
 
-## Links
+## Link(s)
 * [👉 assenfuego.com](https://assenfuego.com/)
 
 ## Tech
