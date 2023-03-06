@@ -1,9 +1,10 @@
 :root {
+  --border-radius: 9px;
   --color-bg__main: #f4f5f6;
   --color__main: #030303;
   --color__second: #333333;
   --color-accent__main: rgb(247, 167, 18); 
-  --color-accent__second: rgb(225, 255, 0);  
+  --color-accent__second: rgb(225, 255, 0);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
@@ -88,10 +89,20 @@ footer a:visited {
 
 #mozarts-ghost {
   position: fixed;
-  opacity: 0.4;
+  opacity: 1;
   bottom: 0;
   left: 10px;
   padding: 10px;
+}
+
+#mozarts-ghost a:link,
+#mozarts-ghost a:visited {
+  color: rgb(164, 164, 235);
+  text-decoration: none;
+}
+
+#mozarts-ghost a:hover {
+  color: rgb(195, 0, 255);
 }
 
 .parent-container {
