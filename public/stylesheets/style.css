@@ -66,6 +66,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.parent-container {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 5vh;  
+}
+
 footer { 
   margin-top: 1.1rem;
   color: var(--color__second);
@@ -87,7 +93,13 @@ footer p {
   margin: 0 auto;
 }
 
-w
+#mozarts-ghost {
+  position: fixed;
+  opacity: 0.6;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+}
 
 .button-effect { 
   display: block;
@@ -107,3 +119,5 @@ w
 section > nav {
   margin: 3rem 0rem;
 }
+
+

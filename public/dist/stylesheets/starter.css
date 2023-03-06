@@ -86,6 +86,14 @@ footer a:visited {
   text-decoration: none !important;
 }
 
+#mozarts-ghost {
+  position: fixed;
+  opacity: 0.6;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+}
+
 .parent-container {
   width: 90%;
   margin: 0 auto;
