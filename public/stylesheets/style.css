@@ -95,9 +95,9 @@ footer p {
 
 #mozarts-ghost {
   position: fixed;
-  opacity: 0.6;
+  opacity: 0.4;
   bottom: 0;
-  right: 0;
+  left: 10px;
   padding: 10px;
 }
 
