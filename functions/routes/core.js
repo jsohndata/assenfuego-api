@@ -5,7 +5,8 @@ const router = express.Router();
 const filePath = process.cwd();
 
 router.get("/", (req,res) => {  
-  const uri = path.join(filePath, '/pages/index.html');
+  // const uri = path.join(filePath, '/pages/index.html');
+  const uri = filePath + '/pages/index.html'
   res.sendFile(uri);
 });
 
