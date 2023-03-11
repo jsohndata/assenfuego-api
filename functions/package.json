@@ -19,7 +19,7 @@
     "express-rate-limit": "^6.7.0",
     "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.18.0",
-    "firebase-tools": "^11.24.0",
+    "firebase-tools": "^11.24.1",
     "path": "^0.12.7"
   },
   "devDependencies": {
