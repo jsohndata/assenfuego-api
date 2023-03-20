@@ -121,3 +121,12 @@ footer a:visited {
   transform: scale(1.13);
   filter: drop-shadow(0 0 10px rgba(0, 5, 9, 0.319));
 }
+
+/* Disable hover effects on mobile */
+@media (max-width: 768px) {
+  .button-effect:hover
+  {
+      transform: scale(1.0);
+      filter: none;
+  }
+}
