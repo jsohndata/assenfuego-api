@@ -5,12 +5,5 @@ Personal collection of APIs, links, and resouces.
 
 <br>
 
-## Link(s)
+## Site
 * [👉 assenfuego.com](https://assenfuego.com/)
-
-<br>
-
-## Tech
-* Express
-* Node.js
-* On Firebase Google Cloud Platform(GCP)
