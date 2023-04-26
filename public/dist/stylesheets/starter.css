@@ -120,6 +120,7 @@ footer a:visited {
 .button-effect:hover {
   transform: scale(1.13);
   filter: drop-shadow(0 0 10px rgba(0, 5, 9, 0.319));
+  z-index: 999;
 }
 
 /* Disable hover effects on mobile */
