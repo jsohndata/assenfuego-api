@@ -23,7 +23,7 @@ body {
   background-color: var(--color-bg__main);
   
   text-align: center;  
-  background-image: url("/images/background/background.webp");
+  background-image: url("/images/background.webp");
   background-position: center;
   background-size:cover;
   background-repeat: no-repeat;
@@ -135,5 +135,3 @@ footer p {
 section > nav {
   margin: 3rem 0rem;
 }
-
-
